@@ -1,9 +1,3 @@
-/*
-PODE EXCLUIR NÃO ESTÁ SENDO UTILIZADO
-*/
-
-
-
 import AsyncStorage from '@react-native-community/async-storage'
 import Odoo from 'react-native-odoo-promise-based';
 
